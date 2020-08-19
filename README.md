@@ -1,4 +1,4 @@
 #Notas sobre investigación reproducible y análisis de datos
 
 ##Reproductibilidad
-El término **reproductibilidad**(o *reproducibility*, en inglés) se refiere a la capacidad de reproducir un trabajo de investigación, de manera que sus resultados puedan ser obtenidos por otros al seguir la misma metodología. Usualmente, la reproductibilidad requiere que los datos y el código de programación utilizados en la investigación estén disponibles para quienes deseen usuarlos (Bezjak et al.,2018). 
+El término **reproductibilidad** (o *reproducibility*, en inglés) se refiere a la capacidad de reproducir un trabajo de investigación, de manera que sus resultados puedan ser obtenidos por otros al seguir la misma metodología. Usualmente, la reproductibilidad requiere que los datos y el código de programación utilizados en la investigación estén disponibles para quienes deseen usuarlos (Bezjak et al.,2018). 
